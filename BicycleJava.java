@@ -1,4 +1,4 @@
-Public class BicycleJava
+public class BicycleJava
 {private String ownerName;
 	private String tagNo;
 
